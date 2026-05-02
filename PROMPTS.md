@@ -1,39 +1,24 @@
-🤖 Engenharia de Prompts e Cicatrizes
-Este documento registra as instruções estruturadas (prompts) utilizadas para extrair conhecimento profundo das fontes e as iterações necessárias para obter respostas de alta fidelidade.
-1. Simulação de Negociação de Alto Impacto
-Este prompt configura a IA para ser uma contraparte difícil, aplicando os princípios de Interesses vs. Posições de Fisher e Ury.
-Prompt: "Atue como um executivo de compras cético de um banco multinacional. Estou tentando te vender um software de automação. Você deve usar táticas de pressão como prazos apertados e a 'Tática Columbo' (pedir algo extra no último segundo).
-Regras de Reação:
+### 🤖 Engenharia de Prompts e Cicatrizes
 
-    Não aceite descontos logo de cara; exija justificativa de ROI.
-    Force-me a revelar meu BATNA ou prove que tenho alternativas.
-    Diferencie 'Elefantes' (pontos vitais) de 'Formigas' (detalhes menores).
+Este documento detalha o raciocínio por trás da extração de conhecimento das fontes e as iterações necessárias para transformar a IA em uma parceira estratégica de estudos.
 
-Objetivo Final: Avalie se eu consegui manter o controle emocional e se usei critérios objetivos para defender o preço."
-🩹 Cicatrizes (Troubleshooting)
+#### 1. Simulação de Negociação Estratégica
+*   **Prompt Original:** "Simule uma negociação comigo sobre a venda de um software."
+*   **Prompt Refinado:** "Atue como um executivo de compras cético de uma grande corporação. Utilize táticas de pressão e exija justificativas de ROI. Reaja baseando-se em seus interesses (custo e risco) e não apenas em posições. Avalie se identifiquei meu **BATNA** e se diferenciei **'Elefantes' de 'Formigas'**."
+*   **Resultado Obtido:** A IA passou a contestar propostas vagas, exigindo dados de mercado e validando a segurança emocional do negociador através da firmeza do seu Plano B.
+*   **🩹 Cicatriz (Troubleshooting):** Inicialmente, a IA era muito complacente. Foi necessário incluir a instrução de focar em "Interesses vs. Posições" para forçar uma postura defensiva real, típica de negociadores experientes da Stanford e Harvard.
 
-    Desafio: Inicialmente, a IA tendia a concordar muito rápido ou aceitar qualquer argumento de "parceria".
-    Solução: Adicionei a instrução específica para focar em interesses financeiros (custos/riscos) e não em posições amigáveis, forçando uma postura defensiva real.
+#### 2. Validação de Proposta de Valor: "Sair do Prédio"
+*   **Prompt Estratégico:** "Com base na metodologia de Steve Blank, assuma o papel de um **Earlyvangelist**. Eu vou aplicar a **'Pergunta do IPO'**: 'Se você pudesse dizer uma palavra mágica e mudar algo na sua rotina, o que seria?'."
+*   **Referências:** *Manual do Empreendedor* e *Do Sonho à Realização*.
+*   **Resultado Obtido:** A IA forneceu respostas que diferenciaram "Necessidade Latente" de "Necessidade Ativa", permitindo testar se o produto era "crítico para a missão" ou apenas "conveniente".
+*   **🩹 Cicatriz (Troubleshooting):** A IA tendia a dar feedbacks genéricos. A correção foi exigir que ela atuasse como um cliente que já tentou montar uma "solução caseira", validando o nível 4 da escala de problemas de Blank.
 
-
---------------------------------------------------------------------------------
-2. Validação de Hipóteses: "Sair do Prédio"
-Prompt focado na metodologia de Steve Blank para evitar o erro de construir algo que ninguém quer.
-Prompt: "Com base no dogma 'Get out of the building', assuma o papel de um Earlyvangelist (cliente visionário) que tem um problema crítico, mas já montou uma solução caseira precária.
-Eu vou te entrevistar usando a 'Pergunta do IPO': 'Se você pudesse dizer uma palavra mágica e mudar qualquer coisa na sua rotina profissional, o que seria?'.
-Reaja com ceticismo se eu tentar te 'vender' recursos em vez de ouvir sua dor. Só demonstre entusiasmo se eu identificar sua Necessidade Ativa."
-🩹 Cicatrizes (Troubleshooting)
-
-    Desafio: A IA agia como um cliente comum, e não como um visionário disposto a pagar por um produto incompleto.
-    Solução: Ajustei o prompt para incluir os 5 critérios de um Earlyvangelist, incluindo a posse de orçamento próprio.
+#### 3. Auditoria Cultural: O Estilo Disney
+*   **Prompt de Revisão:** "Atue como Van France da Disney University. Avalie se este processo de integração de funcionários respeita a hierarquia **SCSE** (Segurança, Cortesia, Show e Eficiência)."
+*   **Referências:** *Academia Disney* de Doug Lipp.
+*   **Resultado Obtido:** Uma análise crítica sobre como transformar o "enfadonho em memorável" e se a cultura está sendo transmitida como "DNA essencial" ou apenas "camada de tinta".
+*   **🩹 Cicatriz (Troubleshooting):** No início, a IA focava apenas em treinamento técnico. O ajuste foi solicitar a aplicação das **"Quatro Circunstâncias"** (Inovar, Apoiar, Educar e Entreter), garantindo que o fator "Entretenimento" fosse usado para fixar a educação corporativa.
 
 
---------------------------------------------------------------------------------
-3. Auditoria de Cultura: O Estilo Van France
-Prompt para aplicar as "Quatro Circunstâncias" da Disney (Inovar, Apoiar, Educar e Entreter) em processos corporativos.
-Prompt: "Atue como consultor da Disney University. Analise o seguinte roteiro de integração de novos funcionários [Descreva seu processo aqui].
-Critérios de Avaliação:
 
-    O processo foca apenas em regras ou consegue cativar corações e mentes?.
-    Como as Quatro Circunstâncias de Van France estão presentes?.
-    A hierarquia SCSE (Segurança, Cortesia, Show e Eficiência) é respeitada ou a eficiência está sacrificando a cortesia?."
