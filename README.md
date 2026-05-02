@@ -1,6 +1,5 @@
 # miniguia-estudos-notebooklm
 
-Este é o cartão de visitas do seu projeto. Copie e adapte o texto abaixo:
 Este repositório integra a excelência cultural da Disney com as metodologias de Customer Development (Steve Blank) e Lean Startup (Eric Ries). O objetivo é fornecer um roteiro para construir organizações que validam cientificamente seus modelos de negócio enquanto mantêm uma cultura de alto impacto no cliente.
 
     Academia Disney (Doug Lipp): Foco em cultura organizacional e treinamento.
